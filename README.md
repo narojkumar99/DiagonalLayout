@@ -2,7 +2,7 @@
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-DiagonalLayout-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/4530)
 
-With Diagonal Layout explore new styles and approaches on material design
+With Diagonal Layout explore new styles and approache on material design
 
 <a href="https://goo.gl/WXW8Dc">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
